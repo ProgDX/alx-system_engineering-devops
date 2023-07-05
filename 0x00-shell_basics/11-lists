@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -la . .. /boot alx-system_engineering-devops 0x00-shell_basics
+=======
+ls -al . .. /boot alx-system_engineering-devops 0x00-shell_basics
+>>>>>>> 88602366ef69ab4a27a0361e39676e55899c1d51
