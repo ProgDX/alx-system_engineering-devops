@@ -1,2 +1,4 @@
 #!/bin/bash
-pwd
+# My first script
+echo "pwd"
+
