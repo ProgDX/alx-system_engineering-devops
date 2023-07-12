@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((('ibase=$water;$WATER' | bc)+('ibase=$stir;$STIR' | bc)$bestchol))
+echo &(((printf "$WATER: %$water\n$bestchol) + (printf "$STIR: %$stir\n$bestchol)))
