@@ -1,2 +1,2 @@
 #!/bin/bash
-printif(%.2f,$NUM)
+printif (%.2f,$NUM) | tr ' ' '\n'
