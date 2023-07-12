@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((printf "$WATER: %$water\n$bestchol) + (printf "$STIR: %$stir\n$bestchol)))
+echo $(((printf "$WATER: %$water\n$bestchol) $WATER + (printf "$STIR: %$stir\n$bestchol)$STIR))
